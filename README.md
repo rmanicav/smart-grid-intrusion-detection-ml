@@ -45,9 +45,23 @@ network traffic.
 This project was developed as part of my PhD research in applied machine
 learning and cybersecurity for cyber-physical systems (Smart Grid & SCADA).
 
+
+
+## Reproducibility & Research Notes
+- Experiments were conducted using publicly available and benchmark datasets
+- Data preprocessing, feature extraction, and model training steps are documented
+- Random seeds and model configurations are configurable for repeatability
+- Results reported are based on multiple experimental runs
+
+## Research Context
+This work was conducted as part of my PhD research in Computer Engineering,
+focusing on applied machine learning for energy systems and cyber-physical
+system security.
+
 ## Publications
 Related work from this project has been published in peer-reviewed conferences
 and journals in the areas of smart grids, cybersecurity, and applied machine learning.
+Related peer-reviewed publications are listed in my CV.
 
 ## Author
 **Rajesh Manicavasagam**  
