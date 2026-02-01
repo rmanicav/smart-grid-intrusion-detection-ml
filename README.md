@@ -1,5 +1,4 @@
-# Overview
-Machine learning–based detection of cyber attacks in smart grid and SCADA network traffic.
+#Machine learning–based detection of cyber attacks in smart grid and SCADA network traffic.
 
 
 ## Problem Statement
@@ -43,6 +42,12 @@ network traffic.
 - Data Processing: Pandas, NumPy
 - Environment: Linux, HPC environments
 
+## Project Structure
+data/        -> datasets  
+src/         -> source code  
+results/     -> experiment outputs  
+assets/      -> figures and plots  
+
 ## Context
 This project was developed as part of my PhD research in applied machine
 learning and cybersecurity for cyber-physical systems (Smart Grid & SCADA).
@@ -55,6 +60,10 @@ learning and cybersecurity for cyber-physical systems (Smart Grid & SCADA).
 - Random seeds and model configurations are configurable for repeatability
 - Results reported are based on multiple experimental runs
 
+## How to Run
+pip install -r requirements.txt  
+python src/main.py  
+
 ## Research Context
 This work was conducted as part of my PhD research in Computer Engineering,
 focusing on applied machine learning for energy systems and cyber-physical
@@ -64,6 +73,13 @@ system security.
 Related work from this project has been published in peer-reviewed conferences
 and journals in the areas of smart grids, cybersecurity, and applied machine learning.
 Related peer-reviewed publications are listed in my CV.
+
+## Skills Demonstrated
+- Applied machine learning
+- Cyber-physical system security
+- Data preprocessing and feature engineering
+- Experimental evaluation
+- Reproducible research workflows
 
 ## Author
 **Rajesh Manicavasagam**  
