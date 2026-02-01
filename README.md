@@ -1,5 +1,7 @@
-#Machine learning–based detection of cyber attacks in smart grid and SCADA network traffic.
+# Smart Grid Intrusion Detection using Machine Learning
 
+## Overview
+Machine learning–based detection of cyber attacks in smart grid and SCADA network traffic.
 
 ## Problem Statement
 Smart grid and SCADA networks rely on heterogeneous and resource-constrained
@@ -47,12 +49,6 @@ data/        -> datasets
 src/         -> source code  
 results/     -> experiment outputs  
 assets/      -> figures and plots  
-
-## Context
-This project was developed as part of my PhD research in applied machine
-learning and cybersecurity for cyber-physical systems (Smart Grid & SCADA).
-
-
 
 ## Reproducibility & Research Notes
 - Experiments were conducted using publicly available and benchmark datasets
